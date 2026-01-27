@@ -1,0 +1,10 @@
+{"level":"info","message":"Hello World!","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [27/Jan/2026:08:42:22 +0000] \"GET / HTTP/1.1\" 200 12 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"Hello World!","service":"arcjet_backend"}
+{"level":"info","message":"::ffff:192.168.1.79 - - [27/Jan/2026:08:45:54 +0000] \"GET / HTTP/1.1\" 200 12 \"-\" \"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"Hello World!","service":"arcjet_backend"}
+{"level":"info","message":"::ffff:192.168.1.79 - - [27/Jan/2026:08:46:08 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"Hello World!","service":"arcjet_backend"}
+{"level":"info","message":"::ffff:192.168.1.79 - - [27/Jan/2026:08:46:10 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"Hello World!","service":"arcjet_backend"}
+{"level":"info","message":"::ffff:192.168.1.79 - - [27/Jan/2026:08:46:57 +0000] \"GET / HTTP/1.1\" 200 12 \"android-app://com.google.android.googlequicksearchbox/\" \"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36\"","service":"arcjet_backend"}
