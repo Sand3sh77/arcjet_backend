@@ -4,6 +4,7 @@ import cors from 'cors';
 import morgan from 'morgan';
 import cookieParser from 'cookie-parser';
 import logger from '#config/logger.js';
+import authRoutes from '#routes/auth.routes.js';
 
 const app = express();
 
@@ -19,9 +20,25 @@ app.use(morgan('combined', {
   }
 }))
 
+app.get('/health', (req, res) => {
+  res.status(200).json({
+    status: "ok",
+    timestamp: new Date().toISOString(),
+    uptime: process.uptime()
+  })
+})
+
+app.get('/api', (req, res) => {
+  res.status(200).json({
+    message: "Backend API is running"
+  })
+})
+
 app.get('/', (req, res) => {
   logger.info('Hello World!');
   res.send('Hello World!');
 });
+
+app.use("/api/auth", authRoutes)
 
 export default app;

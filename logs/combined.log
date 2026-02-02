@@ -8,3 +8,31 @@
 {"level":"info","message":"::ffff:192.168.1.79 - - [27/Jan/2026:08:46:10 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36\"","service":"arcjet_backend"}
 {"level":"info","message":"Hello World!","service":"arcjet_backend"}
 {"level":"info","message":"::ffff:192.168.1.79 - - [27/Jan/2026:08:46:57 +0000] \"GET / HTTP/1.1\" 200 12 \"android-app://com.google.android.googlequicksearchbox/\" \"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"Hello World!","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [27/Jan/2026:09:20:21 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"Hello World!","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:13:56:38 +0000] \"GET / HTTP/1.1\" 200 12 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:13:56:38 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:13:56:56 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:13:57:50 +0000] \"GET /admin HTTP/1.1\" 404 144 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:13:57:51 +0000] \"GET /api/auth/error?error=OAuthSignin HTTP/1.1\" 404 153 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:13:57:54 +0000] \"GET /api HTTP/1.1\" 404 142 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:13:58:06 +0000] \"GET /api HTTP/1.1\" 200 36 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:14:53:25 +0000] \"GET /api HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:14:53:26 +0000] \"GET /api HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:15:14:59 +0000] \"GET /api HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:00:23 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 22 \"-\" \"PostmanRuntime/7.51.0\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:03:02 +0000] \"POST /api HTTP/1.1\" 404 143 \"-\" \"PostmanRuntime/7.51.0\"","service":"arcjet_backend"}
+{"level":"info","message":"Hello World!","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:03:13 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:03:20 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"PostmanRuntime/7.51.0\"","service":"arcjet_backend"}
+{"level":"info","message":"Hello World!","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:03:24 +0000] \"GET / HTTP/1.1\" 200 12 \"-\" \"PostmanRuntime/7.51.0\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:03:26 +0000] \"GET /api HTTP/1.1\" 200 36 \"-\" \"PostmanRuntime/7.51.0\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:03:30 +0000] \"GET /api/auth HTTP/1.1\" 404 147 \"-\" \"PostmanRuntime/7.51.0\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:03:46 +0000] \"GET /api/auth/sign-up HTTP/1.1\" 404 155 \"-\" \"PostmanRuntime/7.51.0\"","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:03:49 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.51.0\"","service":"arcjet_backend"}
+{"level":"info","message":"User registered succesfully: subedisndesh0123@gmail.com","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:05:26 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 120 \"-\" \"PostmanRuntime/7.51.0\"","service":"arcjet_backend"}
+{"level":"info","message":"User registered succesfully: subedisandesh0123@gmail.com","service":"arcjet_backend"}
+{"level":"info","message":"::1 - - [02/Feb/2026:16:05:30 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 121 \"-\" \"PostmanRuntime/7.51.0\"","service":"arcjet_backend"}
